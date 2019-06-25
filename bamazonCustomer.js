@@ -1,17 +1,17 @@
 
 
 
-const mysql = reqiure("mysql");
-const Table = require("cli-table3");
-const inquirer = require("inquirer");
+var mysql = reqiure("mysql");
+var Table = require("cli-table3");
+var inquirer = require("inquirer");
 
 
 
-const connection = mysql.createConnection({
+var connection = mysql.createConnection({
     host:"localhost",
     port: 3306,
     user:"root",
-    password: "Be2ge4r713$",
+    password: "Enter password",
     database:"bamazonDB"
 
 
