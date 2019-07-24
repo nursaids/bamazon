@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS bamazon;
-CREATE database bamazon;
+DROP DATABASE IF EXISTS bamazonDB;
+CREATE database bamazonDB;
 
-use bamazon;
+use bamazonDB;
 
 CREATE TABLE produsts(
 item_id int (10) NOT NULL AUTO_INCREMENT,
