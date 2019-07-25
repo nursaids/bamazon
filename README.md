@@ -26,9 +26,9 @@ This is an app with Customer View:
  
 #### 3. This is how the app works:
 
-### Youtube video:
+### Gif embeded video:
 
-https://www.youtube.com/embed/V2uW81vTnXM
+![Watch the video](/bamazon.webm)
 
 
 
