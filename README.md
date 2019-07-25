@@ -26,13 +26,18 @@ This is an app with Customer View:
  
 #### 3. This is how the app works:
 
-![Screenshot](/buy.png)
-![Screenshot](/products.png)
+### Screenshots of how it works:
+##Choose what you want to do:
 ![Screenshot](/options.png)
+##List of products:
+![Screenshot](/products.png)
+##Purchase options:
+![Screenshot](/buy.png)
 
-### Gif embeded video:
 
-![Watch the video](/bamazon.webm)
+### Youtube video:
+
+https://www.youtube.com/embed/V2uW81vTnXM
 
 
 
