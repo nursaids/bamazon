@@ -27,11 +27,11 @@ This is an app with Customer View:
 #### 3. This is how the app works:
 
 ### Screenshots of how it works:
-##Choose what you want to do:
+## Choose what you want to do:
 ![Screenshot](/options.png)
-##List of products:
+## List of products:
 ![Screenshot](/products.png)
-##Purchase options:
+## Purchase options:
 ![Screenshot](/buy.png)
 
 
