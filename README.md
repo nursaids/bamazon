@@ -28,7 +28,7 @@ This is an app with Customer View:
 
 ### Gif embeded video:
 
-![Watch the video](/bamazon.webm)
+![Watch the video on youtube](https://youtu.be/V2uW81vTnXM)
 
 
 
