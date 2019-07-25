@@ -28,7 +28,7 @@ This is an app with Customer View:
 
 ### Gif embeded video:
 
-![Watch the video on youtube](https://youtu.be/V2uW81vTnXM)
+[![Node](<iframe width="560" height="315" src="https://www.youtube.com/embed/V2uW81vTnXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 
