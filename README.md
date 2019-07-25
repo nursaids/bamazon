@@ -28,9 +28,9 @@ This is an app with Customer View:
 
 ### Gif embeded video:
 
-![Watch the video](/BamazonNodeApp.gif)
+![Watch the video](/bamazon.webm)
 
-### YouTube video:
+
 
 
 ### App Setup
